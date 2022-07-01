@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BaseClasses 
 {
+// hi im gaurav
    //Browser setup
 	// I want seperate a methodnfor browser callipng 
 	protected WebDriver driver;
